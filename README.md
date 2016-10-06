@@ -21,6 +21,9 @@ Included are exercises completed while reading Problem Solving with Algorithms a
   - Return the sum of a list of integers.
   - Convert an integer into it's string representation of any base.
   - Check if a string is a palindrome.
+  - Draw a Sierpinski triangle.
+  - Solve a Tower of Hanoi puzzle
+  - Draw a fractal tree
   
 ## Note 
 I am still in the progress of working through this book and new code will be added daily
