@@ -15,7 +15,7 @@ Included are exercises completed while reading Problem Solving with Algorithms a
 - Implementations of data types such as stacks, queues, deuques, unordered lists, and ordered lists.
 - A simulation implementing a queue where a computer printer must make its way through it's print jobs over a time period.
 
-### Chapter 4 (in progress):
+### Chapter 4:
 - Simple recursive algorithm implementations to:
   - Reverse a string.
   - Return the sum of a list of integers.
@@ -24,6 +24,19 @@ Included are exercises completed while reading Problem Solving with Algorithms a
   - Draw a Sierpinski triangle.
   - Solve a Tower of Hanoi puzzle
   - Draw a fractal tree
+  - Navigate a maze
+
+### Chapter 5:
+- Explored the popular search algorithms including:
+  - Binary Search
+  - Hash Tables
+  - Unordered and Ordered Sequential Search
+- Explored sorting algorithms including:
+  - Bubble Sort
+  - Insertion Sort
+  - Merge Sort 
+  - Shell Sort
+  - Quick Sort	 
   
 ## Note 
 I am still in the progress of working through this book and new code will be added daily
